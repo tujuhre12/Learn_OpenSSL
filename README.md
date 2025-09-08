@@ -31,4 +31,4 @@ At the time of recording, I was using OpenSSL version 1.1.1, which is set to rea
 
 I have also written several sample programs that demonstrate how to perform various cryptographic operations using the OpenSSL API. These samples were written using the latest OpenSSL 3.5 API.
 
-[Click here for sample codes](sample_codes/README.md)
+[Click here for sample codes](sample_codes)
